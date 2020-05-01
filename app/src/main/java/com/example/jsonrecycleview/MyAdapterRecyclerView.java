@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
-public class MyAdapterRecycleView extends RecyclerView.Adapter<MyAdapterRecycleView.MyViewHolder> {
+public class MyAdapterRecyclerView extends RecyclerView.Adapter<MyAdapterRecyclerView.MyViewHolder> {
     private List<Detail> details;
     Context context;
 
@@ -30,7 +30,7 @@ public class MyAdapterRecycleView extends RecyclerView.Adapter<MyAdapterRecycleV
     }
 
 
-    public MyAdapterRecycleView(List<Detail> details, Context context) {
+    public MyAdapterRecyclerView(List<Detail> details, Context context) {
         this.details = details;
         this.context = context;
     }
