@@ -1,0 +1,32 @@
+{
+  "Details": [
+    {
+      "Name": "Ivana",
+      "Age":20
+    },
+    {
+      "Name": "Marija",
+      "Age":21
+    },
+    {
+      "Name": "Jovana",
+      "Age":22
+    },
+    {
+      "Name": "Maja",
+      "Age":23
+    },
+    {
+      "Name": "Sanja",
+      "Age":24
+    },
+    {
+      "Name": "Olivera",
+      "Age":25
+    },
+    {
+      "Name": "Dunja",
+      "Age":26
+    }
+  ]
+}
